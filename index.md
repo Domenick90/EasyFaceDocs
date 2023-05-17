@@ -1,4 +1,4 @@
-                                          Дополнительне функции EasyFace для новых часов
+Дополнительне функции EasyFace для новых часов
 
 # LineProgress
 ![image](https://github.com/Domenick90/EasyFaceDocs/assets/57414291/05de774a-6a60-43c7-b077-5e06a55a070a)
@@ -28,6 +28,7 @@ _AngleStart/End_ — конечная.
 ![image](https://github.com/Domenick90/EasyFaceDocs/assets/57414291/64fe76c9-3298-416b-a89a-358855348f77)
 
                                           Пример для Gen2:
+                                          
 ![image](https://github.com/Domenick90/EasyFaceDocs/assets/57414291/06da0f7e-2a88-49fb-bbec-a677b70974e7)
 
 [Погода RW2 10 картинок 45 индексов.zip](https://github.com/Domenick90/EasyFaceDocs/files/11494183/RW2.10.45.zip)
